@@ -7,3 +7,5 @@ Supported panels:
 - WT32S3-86S
   
 See [here](https://oxrs.io/docs/firmware/touch-panel-esp32.html) for documentation.
+
+for testing only !
